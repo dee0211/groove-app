@@ -1,0 +1,5 @@
+{
+  "name": "Grove",
+  "description": "A beautiful, mobile-first step tracker that adjusts your goals based on your 7-day rolling average.",
+  "requestFramePermissions": []
+}
